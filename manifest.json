@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Choose your Deity",
-    "description": "Fooling around, I don't own the icon nor the music. Music belongs to Cruzur on YouTube and the Icon belongs to @KadaburaDraws on Twitter",
+    "name": "Iris Heart",
+    "description": "Encounter! Iris Heart",
     "version": "1.0",
     "icons":
     {
@@ -18,7 +18,7 @@
         {
             "background_music":
             [
-                "music/videoplayback (4).mp3"
+                "music/"
             ]
         }
     }
